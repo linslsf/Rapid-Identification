@@ -4,7 +4,9 @@ This repository is for the code used for the Rapid Identification bioinformatics
 
 ## How to create a custom database
 To reduce analysis time, this pipeline uses a custom local database. The database only needs to be createdonce and can be resused for all subsequent analyses. owever, it is helpfull to update the database at leas 2x a year to ensure you are using the most recent data from NCBI.
+#### Add head of the database here
 
-## Code for the pipeline
+## Instructions to run the pipeline
+
 
 ### Examples of the output of the pipeline
